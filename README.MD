@@ -1,4 +1,4 @@
-#Wheel of Fortune in python
+wheel of Fortune in python
 this game is the project of the fourth course in Python 3 Programming Specialization. the Specialization is Offered By University of Michigan via Coursera
 
 More details about the game
